@@ -16,7 +16,9 @@ public class Ejercicio01 {
 		System.out.println("Introduzca un número double: ");
 		double numDouble = sc.nextDouble();
 		
-		
+		System.out.println("Número entero: " + numEntero +
+				" Número flotante: " + numFlotante +
+				" Número double: " + numDouble);
 	}
 
 }
